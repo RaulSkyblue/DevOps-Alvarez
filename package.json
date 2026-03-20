@@ -2,11 +2,7 @@
 "name": "DevOps-Alvarez",
 "version": "1.0.0",
 "scripts": {
-  "start": "node app.js"
+  "start": "node app.js",
+  "test": "node test.js"
 }
-}
-
-"scripts": {
-"start": "node app.js",
-"test": "node test.js"
 }
